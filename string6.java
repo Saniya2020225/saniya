@@ -1,6 +1,7 @@
-public class string3 {
+public class string6 {
     public static void main(String[] args) {
         String str="hello";
-        System.out.print(str.char(index:0));
+        str="saniya";
+        System.out.print(str==str);
     }
 }
