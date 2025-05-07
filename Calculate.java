@@ -6,12 +6,12 @@ abstract  class Shapee {
     }
     class Circle extends Shapee{
         void area(int a){
-            System.out.println("this is circle area"+a);
+            System.out.println("this is circle area:"+a);
         }
     }
     class Rectangle extends Shapee{
         void area(int b){
-            System.out.println("this is rectangle shape"+b);
+            System.out.println("this is rectangle area:"+b);
         }
     }
     public class Calculate{
