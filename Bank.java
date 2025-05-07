@@ -1,5 +1,5 @@
 abstract class Payment{
-abstract void pay(int a);
+ abstract void pay(int a);
 void success(){
     System.out.println("payment done");
 }
