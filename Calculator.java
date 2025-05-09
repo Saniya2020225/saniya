@@ -21,12 +21,12 @@ class Divide{
 public class Calculator {
     public static void main(String[] args) {
         Sum obj=new Sum();
-        obj.operation(5, 06);
+        obj.operation(5, 56);
         Subtract obj1=new Subtract();
-        obj1.operation(4, 02);
+        obj1.operation(4, 93);
         Multiplying obj2=new Multiplying();
-        obj2.operation(6, 3);
+        obj2.operation(6, 45);
         Divide obj3=new Divide();
-        obj3.operation(9, 3);
+        obj3.operation(9, 78);
     }
 }
